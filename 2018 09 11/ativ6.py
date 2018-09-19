@@ -16,4 +16,4 @@ def f(numeros):
     print(status)
     return False
 
-f([1, 7, 3, 0, 0, 3, 7]) 
+f([1, 7, 3, 0, 0, 3, 7])
