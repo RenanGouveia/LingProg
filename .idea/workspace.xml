@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75d93b1d-b9e5-4060-a61a-cf3be4d5ff99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/renan.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2018 09 18/ativ1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2018 09 18/ativ2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2018 09 18/ativ3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2018 09 18/exemplo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2018 09 18/exemplo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2018 09 18/exemplo3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2018 09 18/exemplo4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,7 +84,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -137,6 +142,14 @@
         <option value="$PROJECT_DIR$/ativ13.1.py" />
         <option value="$PROJECT_DIR$/2018 09 11/ativ4.py" />
         <option value="$PROJECT_DIR$/2018 09 11/ativ6.py" />
+        <option value="$PROJECT_DIR$/2018 09 18/exemplo.py" />
+        <option value="$PROJECT_DIR$/2018 09 18/exemplo2.py" />
+        <option value="$PROJECT_DIR$/2018 09 18/exemplo3.py" />
+        <option value="$PROJECT_DIR$/2018 09 18/agenda.txt" />
+        <option value="$PROJECT_DIR$/2018 09 18/exemplo4.py" />
+        <option value="$PROJECT_DIR$/2018 09 18/ativ1.py" />
+        <option value="$PROJECT_DIR$/2018 09 18/ativ3.py" />
+        <option value="$PROJECT_DIR$/2018 09 18/ativ2.py" />
       </list>
     </option>
   </component>
@@ -161,7 +174,7 @@
             <path>
               <item name="LingProg" type="b2602c69:ProjectViewProjectNode" />
               <item name="LingProg" type="462c0819:PsiDirectoryNode" />
-              <item name="2018 09 11" type="462c0819:PsiDirectoryNode" />
+              <item name="2018 09 18" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -185,8 +198,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ativ6">
-    <configuration name="ativ22" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.ativ2">
+    <configuration name="ativ1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LingProg" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -194,17 +207,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2018 09 18" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ativ22.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2018 09 18/ativ1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="ativ24" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ativ2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LingProg" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -212,17 +225,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2018 09 18" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ativ24.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2018 09 18/ativ2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="ativ25" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ativ3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LingProg" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -230,17 +243,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2018 09 18" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ativ25.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2018 09 18/ativ3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="ativ4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exemplo3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LingProg" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -248,17 +261,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2018 09 11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2018 09 18" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2018 09 11/ativ4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2018 09 18/exemplo3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="ativ6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exemplo4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LingProg" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -266,30 +279,30 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2018 09 11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2018 09 18" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2018 09 11/ativ6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2018 09 18/exemplo4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.ativ22" />
-      <item itemvalue="Python.ativ24" />
-      <item itemvalue="Python.ativ25" />
-      <item itemvalue="Python.ativ6" />
-      <item itemvalue="Python.ativ4" />
+      <item itemvalue="Python.ativ1" />
+      <item itemvalue="Python.exemplo3" />
+      <item itemvalue="Python.exemplo4" />
+      <item itemvalue="Python.ativ3" />
+      <item itemvalue="Python.ativ2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ativ6" />
-        <item itemvalue="Python.ativ4" />
-        <item itemvalue="Python.ativ25" />
-        <item itemvalue="Python.ativ24" />
-        <item itemvalue="Python.ativ22" />
+        <item itemvalue="Python.ativ2" />
+        <item itemvalue="Python.ativ3" />
+        <item itemvalue="Python.ativ1" />
+        <item itemvalue="Python.exemplo4" />
+        <item itemvalue="Python.exemplo3" />
       </list>
     </recent_temporary>
   </component>
@@ -309,7 +322,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24524158" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24524158" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
@@ -325,7 +338,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3290938" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -390,6 +403,65 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018 09 18/agenda.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018 09 18/exemplo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="36" lean-forward="true" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018 09 18/exemplo2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018 09 18/exemplo3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018 09 18/exemplo4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="23" column="50" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="23" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018 09 18/ativ1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="57" selection-start-line="31" selection-start-column="57" selection-end-line="31" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018 09 18/ativ2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="122" column="13" lean-forward="true" selection-start-line="122" selection-start-column="13" selection-end-line="122" selection-end-column="13" />
+          <folding>
+            <element signature="e#697#732#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018 09 18/ativ3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
         </state>
       </provider>
     </entry>
